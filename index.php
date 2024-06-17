@@ -78,7 +78,7 @@
     </div>
     
     <div class="email">
-        <p>Email Bug: <a href="mailto:hello@bugwithabigass.com">hello@bugwithabigass.com</a></p>
+        <p>Email Bug: <a href="mailto:email@bugwithabigass.com">email@bugwithabigass.com</a></p>
     </div>
 </div>
 
